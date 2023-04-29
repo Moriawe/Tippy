@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mint">#B9EDDD</color>
+    <color name="green">#87CBB9</color>
+    <color name="teal">#569DAA</color>
+    <color name="steelblue">#577D86</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color_worst_tip">#DC1E0B</color>
+    <color name="color_best_tip">#35BA01</color>
+</resources>
